@@ -34,12 +34,9 @@ iii) Deployment:  Netlify.
 
 ## 📸 Screenshots
 
-<p align="center">
-<img width=45%  alt="Screenshot (284)" src="https://github.com/user-attachments/assets/8de10540-5a2a-4a27-8737-f9670c93a072" />
-<img width=45%  alt="Screenshot (283)" src="https://github.com/user-attachments/assets/6a53bcad-82fa-470e-a425-c72e480c29e0" />
-    </p>  
-  <p align="center">
-<img width=45%  alt="Screenshot (282)" src="https://github.com/user-attachments/assets/ad6e19c8-ff21-45bb-9e31-6cb2b4a619c9" />
-<img width=45%  alt="Screenshot (281)" src="https://github.com/user-attachments/assets/a0a62575-0678-4db8-925c-697625b11ff7" />
-    </p>
+<img width="1920" height="917" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/14811dab-d7c4-43e9-baee-1c275850ced8" />
+<img width="1920" height="917" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/204ab060-06b6-4489-828d-adbbe9c4833f" />
+<img width="1920" height="930" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/1f744a9c-2bbb-4643-b063-d69fc84adfe2" />
+<img width="1920" height="936" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/16bfc153-8852-425f-a6e7-95247094b85c" />
+
 
